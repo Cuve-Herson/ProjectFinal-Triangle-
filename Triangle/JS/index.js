@@ -1,11 +1,10 @@
 var canvasElement = document.querySelector("#canvas");
     var ctx = canvasElement.getContext("2d");
 
-    ctx.strokeStyle = "rgb(0,0,0)";
-    // ctx.strokeStyle = "rgb(121,182,242)";
-    ctx.fillStyle="rgb(255,255,255)";
-    // ctx.fillStyle="rgb(232,149,108)";
-    ctx.lineWidth="10";
+   
+     ctx.strokeStyle = "rgb(121,182,242)";
+     ctx.fillStyle="rgb(232,149,108)";
+     ctx.lineWidth="10";
     
     ctx.beginPath();
     ctx.moveTo(200,50);
