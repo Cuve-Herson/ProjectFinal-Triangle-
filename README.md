@@ -1,4 +1,4 @@
 # ProjectFinal-Triangle-
 Nom des étudiants 
-Croimet Dany
+Croimet Dany ;
 Delice Cuve-Herson
